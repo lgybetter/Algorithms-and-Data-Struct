@@ -1,0 +1,28 @@
+{
+  "name": "datastruct-js",
+  "version": "1.0.0",
+  "description": "DataStruct JS Version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgybetter/DataStruct-JS-Verison.git"
+  },
+  "keywords": [
+    "lgy"
+  ],
+  "author": "lgybetter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgybetter/DataStruct-JS-Verison/issues"
+  },
+  "homepage": "https://github.com/lgybetter/DataStruct-JS-Verison#readme",
+  "dependencies": {
+    "babel-core": "^6.22.1",
+    "babel-polyfill": "^6.22.0",
+    "babel-preset-es2015-node6": "^0.4.0",
+    "babel-preset-stage-3": "^6.22.0"
+  }
+}
