@@ -4,4 +4,4 @@ require('babel-core/register')({
 
 require('babel-polyfill');
 
-require('./cycle-list/test.js');
+require('./linked-stack/test.js');
